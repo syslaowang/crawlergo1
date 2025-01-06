@@ -6,7 +6,7 @@ replace git.apache.org/thrift.git => github.com/apache/thrift v0.13.0
 
 require (
 	github.com/chromedp/cdproto v0.0.0-20220629234738-4cfc9cdeeb92
-	github.com/chromedp/chromedp v0.8.2
+	github.com/chromedp/chromedp v0.11.0
 	github.com/deckarep/golang-set v1.7.1
 	github.com/gogf/gf v1.16.6
 	github.com/panjf2000/ants/v2 v2.2.2
