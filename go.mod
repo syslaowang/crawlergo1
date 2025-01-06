@@ -5,7 +5,7 @@ go 1.16
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.13.0
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20220629234738-4cfc9cdeeb92
+	github.com/chromedp/cdproto 
 	github.com/chromedp/chromedp v0.11.0
 	github.com/deckarep/golang-set v1.7.1
 	github.com/gogf/gf v1.16.6
